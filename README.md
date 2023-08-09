@@ -15,7 +15,7 @@ This repository contains code for exploring and analyzing the Titanic dataset, a
 1. Clone this repository:
 
 ```
-git clone https://github.com/your-username/titanic-neural-network.git
+git clone https://github.com/miracyuzakli/titanic-neural-network.git
 cd titanic-neural-network
 ```
 
